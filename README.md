@@ -26,7 +26,18 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Explain the differences between `.map`, `.reduce` and `.filter` and describe a use case for each. 
 
+.map return a new array, we kind of covrting data
+
+.forEach does not return a new but it iterates through every item in an array 
+
+.filter i guess it's pretty selfexplantory and is when you want to filter data but based on true or false
+
 2. Explain the difference between a callback and a higher order function.
+
+
+HOF A function that receives other funtions
+CB a function that is passed into aanother function as an argument
+
 
 3. Explain what a closure is.
 
